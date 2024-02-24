@@ -1,0 +1,130 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f0f0f0;
+  }
+  
+  nav {
+    background-color: #333;
+    color: #fff;
+    padding: 10px 0;
+  }
+  
+  nav ul {
+    list-style-type: none;
+    padding: 0;
+    display: flex;
+    justify-content: space-around;
+  }
+  
+  nav a {
+    color: #fff;
+    text-decoration: none;
+  }
+  
+  form {
+    max-width: 500px;
+    margin: 50px auto;
+    padding: 20px;
+    background-color: #fff;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  }
+  
+  form label {
+    display: block;
+    margin-bottom: 10px;
+  }
+  
+  form input[type="text"],
+  form input[type="email"] {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 20px;
+  }
+  
+  form button {
+    padding: 10px 20px;
+    background-color: #333;
+    color: #fff;
+    border: none;
+  }
+  .PaintingsCollection {
+    background-color: #f9f9f9;
+    border-radius: 5px;
+    padding: 20px;
+    margin: 20px 0;
+  }
+  
+  .PaintingsCollection h2 {
+    margin-top: 0;
+    color: #333;
+  }
+  
+  .PaintingsCollection ul {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  .PaintingsCollection li {
+    margin-bottom: 10px;
+  }
+  
+  .PaintingsCollection a {
+    color: #007bff;
+    text-decoration: none;
+  }
+  
+  .PaintingsCollection a:hover {
+    text-decoration: underline;
+  }
+  .RegistrationForm {
+    background-color: #f9f9f9;
+    border-radius: 5px;
+    padding: 20px;
+    margin: 20px 0;
+  }
+  
+  .RegistrationForm label {
+    display: block;
+    margin-bottom: 10px;
+  }
+  
+  .RegistrationForm input[type="text"],
+  .RegistrationForm input[type="email"] {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 20px;
+  }
+  
+  .RegistrationForm button {
+    padding: 10px 20px;
+    background-color: #333;
+    color: #fff;
+    border: none;
+  }
+  .PersonalPage {
+    background-color: #f9f9f9;
+    border-radius: 5px;
+    padding: 20px;
+    margin: 20px 0;
+  }
+  
+  .PersonalPage label {
+    display: block;
+    margin-bottom: 10px;
+  }
+  
+  .PersonalPage input[type="text"] {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 20px;
+  }
+  
+  .PersonalPage button {
+    padding: 10px 20px;
+    background-color: #333;
+    color: #fff;
+    border: none;
+  }
+  
